@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @Distroto
-- 👀 I’m interested in ... 
+- 👀 I’m interested in programming, economics, skill-building and entrepreneurship.
 - 🌱 I’m currently learning c programming 
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on projects, workshops, or any other activity which interests me.
 
-- 📫 How to reach me ...
+- 📫 How to reach me :
+     Gmail: abhisheksokhal2035@gmail.com
+     Instagram: abhishek2035_
+     
 
 <!---
 Distroto/Distroto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

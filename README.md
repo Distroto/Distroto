@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Distroto
+- 👋 Hi, I’m Abhishek 
 - 👀 I’m interested in programming, economics, skill-building and entrepreneurship.
 - 🌱 I’m currently learning c programming 
 - 💞️ I’m looking to collaborate on projects, workshops, or any other activity which interests me.

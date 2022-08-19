@@ -1,14 +1,21 @@
-- 👋 Hi, I’m Abhishek 
-- 👀 I’m interested in programming, economics, skill-building and entrepreneurship.
-- 🌱 I’m currently learning c programming 
-- 💞️ I’m looking to collaborate on projects, workshops, or any other activity which interests me.
+<h1 align="center"> Hi there 👋, I'm Abhishek Sokhal</h1>
 
-- 📫 How to reach me :
-     Gmail: abhisheksokhal2035@gmail.com
-     Instagram: abhishek2035_
-     
+- 🕹️ Game Dev Enthusiast <br>
+- 💻 Unity Learner <br>
+- 🏫 CS/IT Student from IIIT Bhopal [2025] <br>
 
-<!---
-Distroto/Distroto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+
+### Connect with me:
+
+[![website](./img/twitter-light.svg)](https://twitter.com/Distroto_#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Distroto_#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abhishek-sokhal-630a951ba/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abhishek-sokhal-630a951ba/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/discord-light.svg)](https://dsc.bio/490385132545638430#gh-light-mode-only)
+[![website](./img/discord-dark.svg)](https://dsc.bio/490385132545638430#gh-dark-mode-only)
